@@ -26,16 +26,6 @@ RUN docker-php-ext-install imap
 RUN apt-get install -y libbz2-dev
 RUN docker-php-ext-install bz2
 
-# Install mysql extension
-RUN apt-get update && apt-get install -y --force-yes \
-    freetds-dev \
- && rm -r /var/lib/apt/lists/* \
- && cp -s /usr/lib/x86_64-linux-gnu/libsybdb.so /usr/lib/ \
- && docker-php-ext-configure pdo_mysql --with-pdo-mysql=mysqlnd \
- && docker-php-ext-install \
-    pdo_dblib \
-    pdo_pgsql
-
 # Install Tokenizer
 RUN docker-php-ext-install tokenizer
 
