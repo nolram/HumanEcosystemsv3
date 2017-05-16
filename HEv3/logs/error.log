@@ -1,0 +1,1352 @@
+2016-08-05 06:53:53 Warning: DebugKit not enabled. You need to either install pdo_sqlite, or define the "debug_kit" connection name.
+2016-08-05 07:27:49 Warning: DebugKit not enabled. You need to either install pdo_sqlite, or define the "debug_kit" connection name.
+2016-08-05 10:26:09 Warning: DebugKit not enabled. You need to either install pdo_sqlite, or define the "debug_kit" connection name.
+2016-08-05 10:30:53 Warning: DebugKit not enabled. You need to either install pdo_sqlite, or define the "debug_kit" connection name.
+2016-08-05 10:34:24 Warning: DebugKit not enabled. You need to either install pdo_sqlite, or define the "debug_kit" connection name.
+2016-08-05 10:34:29 Warning: DebugKit not enabled. You need to either install pdo_sqlite, or define the "debug_kit" connection name.
+2017-05-15 23:59:27 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap-theme.min.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-15 23:59:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap-toggle.min.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-15 23:59:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-3.1.0.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-15 23:59:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-15 23:59:28 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-15 23:59:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/d3.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-15 23:59:29 Warning: Headers already sent in /var/www/vendor/cakephp/cakephp/src/Routing/Filter/AssetFilter.php:149
+2017-05-15 23:59:29 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap-toggle.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-15 23:59:30 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/d3.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-15 23:59:32 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/custom.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-15 23:59:33 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/app.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-15 23:59:33 Warning: Headers already sent in /var/www/vendor/cakephp/cakephp/src/Routing/Filter/AssetFilter.php:149
+2017-05-15 23:59:33 Warning: Headers already sent in /var/www/vendor/cakephp/cakephp/src/Routing/Filter/AssetFilter.php:149
+2017-05-15 23:59:33 Warning: Headers already sent in /var/www/vendor/cakephp/cakephp/src/Routing/Filter/AssetFilter.php:149
+2017-05-15 23:59:33 Warning: Headers already sent in /var/www/vendor/cakephp/cakephp/src/Routing/Filter/AssetFilter.php:149
+2017-05-15 23:59:33 Warning: Headers already sent in /var/www/vendor/cakephp/cakephp/src/Routing/Filter/AssetFilter.php:149
+2017-05-15 23:59:33 Warning: Headers already sent in /var/www/vendor/cakephp/cakephp/src/Routing/Filter/AssetFilter.php:149
+2017-05-16 00:03:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:15 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap-toggle.min.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap-toggle.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/d3.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap-theme.min.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:17 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:18 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-3.1.0.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:18 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap-toggle.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/d3.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/app.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:20 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/custom.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap.min.js
+Referer URL: http://127.0.0.1:8080/users/login
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:41 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/d3.min.js
+Referer URL: http://127.0.0.1:8080/users/login
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/app.js
+Referer URL: http://127.0.0.1:8080/users/login
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:42 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap-toggle.min.css
+Referer URL: http://127.0.0.1:8080/users/login
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:43 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-3.1.0.min.js
+Referer URL: http://127.0.0.1:8080/users/login
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:43 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap.min.js
+Referer URL: http://127.0.0.1:8080/users/login
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:43 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css
+Referer URL: http://127.0.0.1:8080/users/login
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:43 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap-toggle.min.js
+Referer URL: http://127.0.0.1:8080/users/login
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:44 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/d3.min.js
+Referer URL: http://127.0.0.1:8080/users/login
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:44 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/app.js
+Referer URL: http://127.0.0.1:8080/users/login
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:44 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/custom.css
+Referer URL: http://127.0.0.1:8080/users/login
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:03:45 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap-theme.min.css
+Referer URL: http://127.0.0.1:8080/users/login
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 00:04:03 Error: [PDOException] SQLSTATE[HY000] [2002] No such file or directory
+Request URL: /researches/process
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/vendor/cakephp/cakephp/src/Database/Driver/PDODriverTrait.php(48): PDO->__construct('mysql:host=;por...', 'homestead', 'secret', Array)
+#1 /var/www/vendor/cakephp/cakephp/src/Database/Driver/Mysql.php(90): Cake\Database\Driver\Mysql->_connect('mysql:host=;por...', Array)
+#2 /var/www/vendor/cakephp/cakephp/src/Database/Schema/BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 /var/www/vendor/cakephp/cakephp/src/Database/Dialect/MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 /var/www/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 /var/www/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(43): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 /var/www/vendor/cakephp/cakephp/src/Database/Connection.php(322): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 /var/www/vendor/cakephp/cakephp/src/ORM/Table.php(433): Cake\Database\Connection->schemaCollection()
+#8 /var/www/vendor/cakephp/cakephp/src/ORM/Query.php(211): Cake\ORM\Table->schema()
+#9 /var/www/vendor/cakephp/cakephp/src/ORM/Query.php(169): Cake\ORM\Query->addDefaultTypes(Object(App\Model\Table\ResearchesTable))
+#10 /var/www/vendor/cakephp/cakephp/src/ORM/Table.php(1312): Cake\ORM\Query->__construct(Object(Cake\Database\Connection), Object(App\Model\Table\ResearchesTable))
+#11 /var/www/vendor/cakephp/cakephp/src/ORM/Table.php(958): Cake\ORM\Table->query()
+#12 /var/www/src/Controller/ResearchesController.php(64): Cake\ORM\Table->find('all', Array)
+#13 [internal function]: App\Controller\ResearchesController->process()
+#14 /var/www/vendor/cakephp/cakephp/src/Controller/Controller.php(435): call_user_func_array(Array, Array)
+#15 /var/www/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(115): Cake\Controller\Controller->invokeAction()
+#16 /var/www/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(88): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ResearchesController))
+#17 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#18 /var/www/index.php(16): require('/var/www/webroo...')
+#19 {main}
+
+
+2017-05-16 14:33:58 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:33:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap-toggle.min.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:33:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-3.1.0.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:33:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:33:59 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap-toggle.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:34:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/app.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:34:00 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap-theme.min.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:34:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/custom.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:34:01 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/d3.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:34:02 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/app.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:34:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap-theme.min.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:34:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/custom.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:34:16 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-3.1.0.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:34:17 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:34:17 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/d3.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:34:18 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/app.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:34:19 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap-toggle.min.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:34:20 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:34:20 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap-toggle.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:34:20 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/d3.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:34:21 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/app.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:35:26 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/index.php(16): require('/var/www/webroo...')
+#2 {main}
+
+
+2017-05-16 14:43:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap-theme.min.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/HEV3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/HEV3/index.php(16): require('/var/www/HEV3/w...')
+#2 {main}
+
+
+2017-05-16 14:43:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap-toggle.min.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/HEV3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/HEV3/index.php(16): require('/var/www/HEV3/w...')
+#2 {main}
+
+
+2017-05-16 14:43:08 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/HEV3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/HEV3/index.php(16): require('/var/www/HEV3/w...')
+#2 {main}
+
+
+2017-05-16 14:43:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/custom.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/HEV3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/HEV3/index.php(16): require('/var/www/HEV3/w...')
+#2 {main}
+
+
+2017-05-16 14:43:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap-toggle.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/HEV3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/HEV3/index.php(16): require('/var/www/HEV3/w...')
+#2 {main}
+
+
+2017-05-16 14:43:09 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/jquery-3.1.0.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/HEV3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/HEV3/index.php(16): require('/var/www/HEV3/w...')
+#2 {main}
+
+
+2017-05-16 14:43:10 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/HEV3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/HEV3/index.php(16): require('/var/www/HEV3/w...')
+#2 {main}
+
+
+2017-05-16 14:43:10 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/bootstrap-toggle.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/HEV3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/HEV3/index.php(16): require('/var/www/HEV3/w...')
+#2 {main}
+
+
+2017-05-16 14:43:11 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/d3.min.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/HEV3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/HEV3/index.php(16): require('/var/www/HEV3/w...')
+#2 {main}
+
+
+2017-05-16 14:43:12 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Js could not be found.
+Exception Attributes: array (
+  'class' => 'Js',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /js/app.js
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/HEV3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/HEV3/index.php(16): require('/var/www/HEV3/w...')
+#2 {main}
+
+
+2017-05-16 14:43:13 Error: [Cake\Routing\Exception\MissingControllerException] Controller class Css could not be found.
+Exception Attributes: array (
+  'class' => 'Css',
+  'plugin' => NULL,
+  'prefix' => NULL,
+  '_ext' => NULL,
+)
+Request URL: /css/bootstrap.min.css
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/HEV3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#1 /var/www/HEV3/index.php(16): require('/var/www/HEV3/w...')
+#2 {main}
+
+
+2017-05-16 14:47:40 Error: [PDOException] SQLSTATE[HY000] [2002] No such file or directory
+Request URL: /home/visualize
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/HEV3/vendor/cakephp/cakephp/src/Database/Driver/PDODriverTrait.php(48): PDO->__construct('mysql:host=;por...', 'homestead', 'secret', Array)
+#1 /var/www/HEV3/vendor/cakephp/cakephp/src/Database/Driver/Mysql.php(90): Cake\Database\Driver\Mysql->_connect('mysql:host=;por...', Array)
+#2 /var/www/HEV3/vendor/cakephp/cakephp/src/Database/Schema/BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 /var/www/HEV3/vendor/cakephp/cakephp/src/Database/Dialect/MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 /var/www/HEV3/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 /var/www/HEV3/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(43): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 /var/www/HEV3/vendor/cakephp/cakephp/src/Database/Connection.php(322): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 /var/www/HEV3/vendor/cakephp/cakephp/src/ORM/Table.php(433): Cake\Database\Connection->schemaCollection()
+#8 /var/www/HEV3/vendor/cakephp/cakephp/src/ORM/Query.php(211): Cake\ORM\Table->schema()
+#9 /var/www/HEV3/vendor/cakephp/cakephp/src/ORM/Query.php(169): Cake\ORM\Query->addDefaultTypes(Object(App\Model\Table\ResearchesTable))
+#10 /var/www/HEV3/vendor/cakephp/cakephp/src/ORM/Table.php(1312): Cake\ORM\Query->__construct(Object(Cake\Database\Connection), Object(App\Model\Table\ResearchesTable))
+#11 /var/www/HEV3/vendor/cakephp/cakephp/src/ORM/Table.php(958): Cake\ORM\Table->query()
+#12 /var/www/HEV3/src/Controller/HomeController.php(41): Cake\ORM\Table->find('all')
+#13 [internal function]: App\Controller\HomeController->visualize()
+#14 /var/www/HEV3/vendor/cakephp/cakephp/src/Controller/Controller.php(435): call_user_func_array(Array, Array)
+#15 /var/www/HEV3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(115): Cake\Controller\Controller->invokeAction()
+#16 /var/www/HEV3/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(88): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\HomeController))
+#17 /var/www/HEV3/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#18 /var/www/HEV3/index.php(16): require('/var/www/HEV3/w...')
+#19 {main}
+
+
+2017-05-16 16:42:52 Error: [PDOException] SQLSTATE[HY000] [2002] No such file or directory
+Request URL: /users/add?url=users%2Fadd
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Database/Driver/PDODriverTrait.php(48): PDO->__construct('mysql:host=;por...', 'homestead', 'secret', Array)
+#1 /var/www/html/vendor/cakephp/cakephp/src/Database/Driver/Mysql.php(90): Cake\Database\Driver\Mysql->_connect('mysql:host=;por...', Array)
+#2 /var/www/html/vendor/cakephp/cakephp/src/Database/Schema/BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 /var/www/html/vendor/cakephp/cakephp/src/Database/Dialect/MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 /var/www/html/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 /var/www/html/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(43): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 /var/www/html/vendor/cakephp/cakephp/src/Database/Connection.php(322): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 /var/www/html/vendor/cakephp/cakephp/src/ORM/Table.php(433): Cake\Database\Connection->schemaCollection()
+#8 /var/www/html/vendor/cakephp/cakephp/src/ORM/Table.php(512): Cake\ORM\Table->schema()
+#9 /var/www/html/vendor/cakephp/cakephp/src/View/Form/EntityContext.php(174): Cake\ORM\Table->primaryKey()
+#10 /var/www/html/vendor/cakephp/cakephp/src/View/Helper/FormHelper.php(1193): Cake\View\Form\EntityContext->isPrimaryKey('username')
+#11 /var/www/html/vendor/cakephp/cakephp/src/View/Helper/FormHelper.php(1172): Cake\View\Helper\FormHelper->_inputType('username', Array)
+#12 /var/www/html/vendor/cakephp/cakephp/src/View/Helper/FormHelper.php(1024): Cake\View\Helper\FormHelper->_parseOptions('username', Array)
+#13 /var/www/html/src/Template/Users/add.ctp(20): Cake\View\Helper\FormHelper->input('username', Array)
+#14 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(1005): include('/var/www/html/s...')
+#15 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(964): Cake\View\View->_evaluate('/var/www/html/s...', Array)
+#16 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(588): Cake\View\View->_render('/var/www/html/s...')
+#17 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(617): Cake\View\View->render(NULL, NULL)
+#18 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(121): Cake\Controller\Controller->render()
+#19 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(88): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#20 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#21 {main}
+
+
+2017-05-16 16:42:57 Error: [PDOException] SQLSTATE[HY000] [2002] No such file or directory
+Request URL: /home/visualize?url=home%2Fvisualize
+Referer URL: http://127.0.0.1:8080/
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Database/Driver/PDODriverTrait.php(48): PDO->__construct('mysql:host=;por...', 'homestead', 'secret', Array)
+#1 /var/www/html/vendor/cakephp/cakephp/src/Database/Driver/Mysql.php(90): Cake\Database\Driver\Mysql->_connect('mysql:host=;por...', Array)
+#2 /var/www/html/vendor/cakephp/cakephp/src/Database/Schema/BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 /var/www/html/vendor/cakephp/cakephp/src/Database/Dialect/MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 /var/www/html/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 /var/www/html/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(43): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 /var/www/html/vendor/cakephp/cakephp/src/Database/Connection.php(322): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 /var/www/html/vendor/cakephp/cakephp/src/ORM/Table.php(433): Cake\Database\Connection->schemaCollection()
+#8 /var/www/html/vendor/cakephp/cakephp/src/ORM/Query.php(211): Cake\ORM\Table->schema()
+#9 /var/www/html/vendor/cakephp/cakephp/src/ORM/Query.php(169): Cake\ORM\Query->addDefaultTypes(Object(App\Model\Table\ResearchesTable))
+#10 /var/www/html/vendor/cakephp/cakephp/src/ORM/Table.php(1312): Cake\ORM\Query->__construct(Object(Cake\Database\Connection), Object(App\Model\Table\ResearchesTable))
+#11 /var/www/html/vendor/cakephp/cakephp/src/ORM/Table.php(958): Cake\ORM\Table->query()
+#12 /var/www/html/src/Controller/HomeController.php(41): Cake\ORM\Table->find('all')
+#13 [internal function]: App\Controller\HomeController->visualize()
+#14 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(435): call_user_func_array(Array, Array)
+#15 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(115): Cake\Controller\Controller->invokeAction()
+#16 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(88): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\HomeController))
+#17 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#18 {main}
+
+
+2017-05-16 16:43:18 Error: [PDOException] SQLSTATE[HY000] [2002] No such file or directory
+Request URL: /users/add?url=users%2Fadd
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Database/Driver/PDODriverTrait.php(48): PDO->__construct('mysql:host=;por...', 'homestead', 'secret', Array)
+#1 /var/www/html/vendor/cakephp/cakephp/src/Database/Driver/Mysql.php(90): Cake\Database\Driver\Mysql->_connect('mysql:host=;por...', Array)
+#2 /var/www/html/vendor/cakephp/cakephp/src/Database/Schema/BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 /var/www/html/vendor/cakephp/cakephp/src/Database/Dialect/MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 /var/www/html/vendor/cakephp/cakephp/src/Database/Schema/Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 /var/www/html/vendor/cakephp/cakephp/src/Database/Schema/CachedCollection.php(43): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 /var/www/html/vendor/cakephp/cakephp/src/Database/Connection.php(322): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 /var/www/html/vendor/cakephp/cakephp/src/ORM/Table.php(433): Cake\Database\Connection->schemaCollection()
+#8 /var/www/html/vendor/cakephp/cakephp/src/ORM/Table.php(512): Cake\ORM\Table->schema()
+#9 /var/www/html/vendor/cakephp/cakephp/src/View/Form/EntityContext.php(174): Cake\ORM\Table->primaryKey()
+#10 /var/www/html/vendor/cakephp/cakephp/src/View/Helper/FormHelper.php(1193): Cake\View\Form\EntityContext->isPrimaryKey('username')
+#11 /var/www/html/vendor/cakephp/cakephp/src/View/Helper/FormHelper.php(1172): Cake\View\Helper\FormHelper->_inputType('username', Array)
+#12 /var/www/html/vendor/cakephp/cakephp/src/View/Helper/FormHelper.php(1024): Cake\View\Helper\FormHelper->_parseOptions('username', Array)
+#13 /var/www/html/src/Template/Users/add.ctp(20): Cake\View\Helper\FormHelper->input('username', Array)
+#14 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(1005): include('/var/www/html/s...')
+#15 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(964): Cake\View\View->_evaluate('/var/www/html/s...', Array)
+#16 /var/www/html/vendor/cakephp/cakephp/src/View/View.php(588): Cake\View\View->_render('/var/www/html/s...')
+#17 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(617): Cake\View\View->render(NULL, NULL)
+#18 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(121): Cake\Controller\Controller->render()
+#19 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(88): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\UsersController))
+#20 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#21 {main}
+
+
+2017-05-16 17:13:23 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 17:13:36 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 17:13:36 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 17:13:50 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:181
+2017-05-16 17:23:39 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:133
+2017-05-16 17:23:51 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:276
+2017-05-16 17:55:35 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 17:55:42 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 17:55:56 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 17:56:07 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 17:56:07 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 17:56:28 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 17:56:28 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 17:58:56 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:276
+2017-05-16 18:17:08 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 18:17:21 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 18:17:31 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 18:17:38 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 18:17:38 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 18:17:52 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 18:17:53 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-16 18:32:39 Error: [Cake\Controller\Exception\MissingActionException] Action HomeController::index() could not be found, or is not accessible.
+Exception Attributes: array (
+  'controller' => 'HomeController',
+  'action' => 'index',
+  'prefix' => '',
+  'plugin' => NULL,
+)
+Request URL: /home/?url=home%2F
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(115): Cake\Controller\Controller->invokeAction()
+#1 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(88): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\HomeController))
+#2 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#3 {main}
+
+
+2017-05-16 18:33:05 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:181
+2017-05-16 18:33:16 Error: Fatal Error (1): Class 'Codebird\Codebird' not found in [/var/www/html/src/Model/Entity/ResearchElement.php, line 277]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-16 18:33:16 Warning: Headers already sent in /var/www/html/src/Model/Entity/ResearchElement.php:277
+2017-05-16 18:33:16 Error: [Cake\Error\FatalErrorException] Class 'Codebird\Codebird' not found
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'Codebird...', '/var/www/html/s...', 277)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-16 18:33:25 Error: Fatal Error (1): Class 'Codebird\Codebird' not found in [/var/www/html/src/Model/Entity/ResearchElement.php, line 277]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-16 18:33:25 Warning: Headers already sent in /var/www/html/src/Model/Entity/ResearchElement.php:277
+2017-05-16 18:33:25 Error: [Cake\Error\FatalErrorException] Class 'Codebird\Codebird' not found
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Class 'Codebird...', '/var/www/html/s...', 277)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-16 18:59:25 Error: [Exception] Request error for API call: Resolving timed out after 3513 milliseconds
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/jublonet/codebird-php/src/codebird.php(2014): Codebird\Codebird->_callApiCurl('GET', 'search/tweets', 'search/tweets', Array, false, true)
+#1 /var/www/html/vendor/jublonet/codebird-php/src/codebird.php(836): Codebird\Codebird->_callApi('GET', 'search/tweets', 'search/tweets', Array, false, true)
+#2 /var/www/html/src/Model/Entity/ResearchElement.php(322): Codebird\Codebird->__call('search_tweets', Array)
+#3 /var/www/html/src/Model/Entity/ResearchElement.php(322): Codebird\Codebird->search_tweets('q=#EuN\xC3\xA3oComo&c...', true)
+#4 /var/www/html/src/Model/Entity/ResearchElement.php(60): App\Model\Entity\ResearchElement->twitterhashtags(4)
+#5 /var/www/html/src/Controller/ResearchesController.php(89): App\Model\Entity\ResearchElement->process(4)
+#6 [internal function]: App\Controller\ResearchesController->process()
+#7 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(435): call_user_func_array(Array, Array)
+#8 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(115): Cake\Controller\Controller->invokeAction()
+#9 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(88): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ResearchesController))
+#10 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#11 {main}
+
+
+2017-05-16 19:00:05 Error: [Exception] Request error for API call: Resolving timed out after 3513 milliseconds
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/jublonet/codebird-php/src/codebird.php(2014): Codebird\Codebird->_callApiCurl('GET', 'search/tweets', 'search/tweets', Array, false, true)
+#1 /var/www/html/vendor/jublonet/codebird-php/src/codebird.php(836): Codebird\Codebird->_callApi('GET', 'search/tweets', 'search/tweets', Array, false, true)
+#2 /var/www/html/src/Model/Entity/ResearchElement.php(322): Codebird\Codebird->__call('search_tweets', Array)
+#3 /var/www/html/src/Model/Entity/ResearchElement.php(322): Codebird\Codebird->search_tweets('q=#EuN\xC3\xA3oComo&c...', true)
+#4 /var/www/html/src/Model/Entity/ResearchElement.php(60): App\Model\Entity\ResearchElement->twitterhashtags(4)
+#5 /var/www/html/src/Controller/ResearchesController.php(89): App\Model\Entity\ResearchElement->process(4)
+#6 [internal function]: App\Controller\ResearchesController->process()
+#7 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(435): call_user_func_array(Array, Array)
+#8 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(115): Cake\Controller\Controller->invokeAction()
+#9 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(88): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ResearchesController))
+#10 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#11 {main}
+
+
+2017-05-16 19:12:04 Error: [Exception] Request error for API call: Resolving timed out after 3514 milliseconds
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/jublonet/codebird-php/src/codebird.php(2014): Codebird\Codebird->_callApiCurl('GET', 'search/tweets', 'search/tweets', Array, false, true)
+#1 /var/www/html/vendor/jublonet/codebird-php/src/codebird.php(836): Codebird\Codebird->_callApi('GET', 'search/tweets', 'search/tweets', Array, false, true)
+#2 /var/www/html/src/Model/Entity/ResearchElement.php(325): Codebird\Codebird->__call('search_tweets', Array)
+#3 /var/www/html/src/Model/Entity/ResearchElement.php(325): Codebird\Codebird->search_tweets('q=#EuN\xC3\xA3oComo&c...', true)
+#4 /var/www/html/src/Model/Entity/ResearchElement.php(60): App\Model\Entity\ResearchElement->twitterhashtags(4)
+#5 /var/www/html/src/Controller/ResearchesController.php(89): App\Model\Entity\ResearchElement->process(4)
+#6 [internal function]: App\Controller\ResearchesController->process()
+#7 /var/www/html/vendor/cakephp/cakephp/src/Controller/Controller.php(435): call_user_func_array(Array, Array)
+#8 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(115): Cake\Controller\Controller->invokeAction()
+#9 /var/www/html/vendor/cakephp/cakephp/src/Routing/Dispatcher.php(88): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\ResearchesController))
+#10 /var/www/html/webroot/index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#11 {main}
+
+
