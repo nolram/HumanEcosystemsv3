@@ -51,7 +51,7 @@ services:
       PMA_HOST: database
       PMA_PORT: 3306
     ports:
-      - "8000:80"
+      - "9000:80"
 
 volumes:
   dbdata:
