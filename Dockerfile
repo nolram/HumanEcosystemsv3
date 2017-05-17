@@ -23,8 +23,8 @@ RUN curl -sSL https://getcomposer.org/installer | php \
 
 # Install app
 RUN rm -rf /var/www/*
-ADD ./HEv3 /var/www
-RUN  cd /var/www && /usr/local/bin/composer install
+ADD ./HEv3 /var/www/html
+RUN  cd /var/www/html && /usr/local/bin/composer install
 
 # Configure apache
 RUN a2enmod rewrite
