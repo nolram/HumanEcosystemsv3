@@ -30,3 +30,6 @@ RUN  cd /var/www && /usr/local/bin/composer install
 RUN a2enmod rewrite
 
 RUN usermod -u 1000 www-data
+
+EXPOSE 80
+CMD ["apache2-foreground"]
