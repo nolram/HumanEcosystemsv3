@@ -28,6 +28,7 @@ RUN  cd /var/www && /usr/local/bin/composer install
 
 # Configure apache
 RUN a2enmod rewrite
+ADD apache.conf /etc/apache2/sites-available/default
 
 RUN usermod -u 1000 www-data
 
