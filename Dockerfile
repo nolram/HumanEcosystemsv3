@@ -25,12 +25,14 @@ RUN curl -sSL https://getcomposer.org/installer | php \
 RUN rm -rf /var/www/*
 ADD ./HEv3 /var/www/html
 RUN  cd /var/www/html && /usr/local/bin/composer install
+# RUN chmod g+w /var/www/html/tmp
 
 # Configure apache
 RUN a2enmod rewrite
+RUN chown -R www-data:www-data /var/www
 ADD apache.conf /etc/apache2/sites-available/default
 
-RUN usermod -u 1000 www-data
+# RUN usermod -u 1000 www-data
 
 EXPOSE 80
 CMD ["apache2-foreground"]
