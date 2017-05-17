@@ -1,0 +1,72 @@
+{
+  "name": "phpmyadmin",
+  "image": "phpmyadmin/phpmyadmin",
+  "essential": true,
+  "memory": 128,
+  "portMappings": [
+    {
+      "hostPort": 8000,
+      "containerPort": 8000
+    }
+  ],
+},
+
+version: '2'
+services:
+  # The Application
+  app:
+    build:
+      context: .
+      dockerfile: HEv3/app.dockerfile
+    volumes:
+      - ./HEv3:/var/www/html
+    environment:
+      - "RDS_PORT=3306"
+      - "RDS_HOSTNAME=database"
+      - "RDS_USERNAME=homestead"
+      - "RDS_PASSWORD=secret"
+      - "RDS_DB_NAME=homestead"
+    ports:
+      - "8080:80"
+      - "443:443"
+
+
+
+  # # The Web Server
+  # web:
+  #   build:
+  #     context: ./
+  #     dockerfile: web.dockerfile
+  #   working_dir: /var/www/HEV3/
+  #   volumes_from:
+  #     - app
+  #   ports:
+  #     - 8080:80
+
+  # The Database
+  database:
+    image: mysql:5.6
+    volumes:
+      - dbdata:/var/lib/mysql
+    environment:
+      - "MYSQL_DATABASE=homestead"
+      - "MYSQL_USER=homestead"
+      - "MYSQL_PASSWORD=secret"
+      - "MYSQL_ROOT_PASSWORD=secret"
+    ports:
+        - "33061:3306"
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    depends_on:
+      - database
+    links:
+      - database
+    environment:
+      PMA_HOST: database
+      PMA_PORT: 3306
+    ports:
+      - "8000:80"
+
+volumes:
+  dbdata:

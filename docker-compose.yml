@@ -1,0 +1,12 @@
+version: '2'
+services:
+  # The Application
+  app:
+    build:
+      context: .
+      dockerfile: HEv3/app.dockerfile
+    volumes:
+      - ./HEv3:/var/www/html
+    ports:
+      - "80:80"
+      - "443:443"
