@@ -25,6 +25,8 @@ RUN curl -sSL https://getcomposer.org/installer | php \
 RUN rm -rf /var/www/*
 ADD ./HEv3 /var/www/html
 RUN  cd /var/www/html && /usr/local/bin/composer install
+RUN  cd /var/www/html && /usr/local/bin/composer require jublonet/codebird-php
+RUN  cd /var/www/html && /usr/local/bin/composer require raiym/instagram-php-scraper
 # RUN chmod g+w /var/www/html/tmp
 
 # Configure apache
