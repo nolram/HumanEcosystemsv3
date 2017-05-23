@@ -19,6 +19,11 @@ RUN curl -sSL https://getcomposer.org/installer | php \
     && apt-get purge -y --auto-remove zlib1g-dev \
     && rm -rf /var/lib/apt/lists/*
 
+
+# RUN cd /var/www/html && /usr/local/bin/composer install
+# RUN cd /var/www/html && /usr/local/bin/composer require jublonet/codebird-php
+# RUN cd /var/www/html && /usr/local/bin/composer require raiym/instagram-php-scraper
+
 RUN a2enmod rewrite
 
 RUN usermod -u 1000 www-data

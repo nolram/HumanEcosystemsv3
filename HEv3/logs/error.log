@@ -1350,3 +1350,498 @@ Stack Trace:
 #11 {main}
 
 
+2017-05-22 17:20:51 Warning: Headers already sent in /var/www/html/vendor/cakephp/cakephp/src/Routing/Filter/AssetFilter.php:149
+2017-05-22 17:20:51 Warning: Headers already sent in /var/www/html/vendor/cakephp/cakephp/src/Routing/Filter/AssetFilter.php:149
+2017-05-22 17:20:51 Warning: Headers already sent in /var/www/html/vendor/cakephp/cakephp/src/Routing/Filter/AssetFilter.php:149
+2017-05-22 17:20:51 Warning: Headers already sent in /var/www/html/vendor/cakephp/cakephp/src/Routing/Filter/AssetFilter.php:149
+2017-05-22 17:20:51 Warning: Headers already sent in /var/www/html/vendor/cakephp/cakephp/src/Routing/Filter/AssetFilter.php:149
+2017-05-22 17:20:51 Warning: Headers already sent in /var/www/html/vendor/cakephp/cakephp/src/Routing/Filter/AssetFilter.php:149
+2017-05-22 17:20:51 Warning: Headers already sent in /var/www/html/vendor/cakephp/cakephp/src/Routing/Filter/AssetFilter.php:149
+2017-05-22 17:22:41 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-22 17:24:52 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-22 17:24:53 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:217
+2017-05-22 17:24:58 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:181
+2017-05-22 17:24:58 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:181
+2017-05-22 17:24:59 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:181
+2017-05-22 17:25:20 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:181
+2017-05-22 17:25:57 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 339]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 17:25:58 Warning: Headers already sent in /var/www/html/src/Model/Entity/ResearchElement.php:581
+2017-05-22 17:25:58 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 339)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 17:28:59 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 339]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 17:28:59 Warning: Headers already sent in /var/www/html/src/Model/Entity/ResearchElement.php:581
+2017-05-22 17:28:59 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 339)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 17:54:45 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 313]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 17:54:45 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:313
+2017-05-22 17:54:45 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 313)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 17:54:54 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 313]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 17:54:54 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:313
+2017-05-22 17:54:54 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 313)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 17:55:00 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 313]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 17:55:01 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:313
+2017-05-22 17:55:01 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 313)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 17:55:16 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 313]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 17:55:16 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:313
+2017-05-22 17:55:16 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 313)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 17:57:49 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 313]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 17:57:49 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:313
+2017-05-22 17:57:49 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 313)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 18:40:09 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 313]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 18:40:09 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:313
+2017-05-22 18:40:09 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 313)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 18:46:45 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 313]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 18:46:45 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:313
+2017-05-22 18:46:45 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 313)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 18:57:58 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 313]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 18:57:58 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:313
+2017-05-22 18:57:58 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 313)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 19:03:19 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 313]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 19:03:19 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:313
+2017-05-22 19:03:19 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 313)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 19:09:32 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 313]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 19:09:32 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:313
+2017-05-22 19:09:32 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 313)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 19:28:22 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 313]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 19:28:23 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:313
+2017-05-22 19:28:23 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 313)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 19:31:06 Warning: Headers already sent in /var/www/html/src/Controller/ResearchesController.php:133
+2017-05-22 19:31:11 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 339]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 19:31:11 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:339
+2017-05-22 19:31:11 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 339)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 19:33:11 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 339]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 19:33:11 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:339
+2017-05-22 19:33:11 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 339)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 19:57:35 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 339]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 19:57:35 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:339
+2017-05-22 19:57:35 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 339)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 19:57:37 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 339]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 19:57:37 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:339
+2017-05-22 19:57:37 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 339)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 19:58:04 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 339]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 19:58:04 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:339
+2017-05-22 19:58:04 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 339)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 19:58:17 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 339]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 19:58:17 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:339
+2017-05-22 19:58:17 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 339)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 20:13:43 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 339]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 20:13:44 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:339
+2017-05-22 20:13:44 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 339)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 20:14:01 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 339]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 20:14:01 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:339
+2017-05-22 20:14:01 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 339)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 20:14:59 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 339]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 20:15:00 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:339
+2017-05-22 20:15:00 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 339)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 20:17:52 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 339]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 20:17:52 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:339
+2017-05-22 20:17:52 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 339)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
+2017-05-22 20:19:49 Error: Fatal Error (1): Call to undefined method App\Model\Entity\ResearchElement::generateHeaders() in [/var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php, line 339]
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 216
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 98
+[main] - [internal], line ??
+
+
+
+2017-05-22 20:19:49 Warning: Headers already sent in /var/www/html/vendor/raiym/instagram-php-scraper/src/InstagramScraper/Instagram.php:339
+2017-05-22 20:19:49 Error: [Cake\Error\FatalErrorException] Call to undefined method App\Model\Entity\ResearchElement::generateHeaders()
+Request URL: /researches/process?url=researches%2Fprocess
+Client IP: 172.20.0.1
+Stack Trace:
+#0 /var/www/html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(98): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Call to undefin...', '/var/www/html/v...', 339)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+
