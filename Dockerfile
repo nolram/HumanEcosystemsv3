@@ -34,5 +34,7 @@ RUN a2enmod rewrite
 RUN chown -R www-data:www-data /var/www
 ADD apache.conf /etc/apache2/sites-available/default
 
+RUN sed -i "s|Timeout 300|Timeout 1000 |g" /etc/apache2/apache2.conf
+
 EXPOSE 80
 CMD ["apache2-foreground"]

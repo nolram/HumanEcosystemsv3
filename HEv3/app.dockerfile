@@ -24,6 +24,9 @@ RUN curl -sSL https://getcomposer.org/installer | php \
 # RUN cd /var/www/html && /usr/local/bin/composer require jublonet/codebird-php
 # RUN cd /var/www/html && /usr/local/bin/composer require raiym/instagram-php-scraper
 
+
+RUN sed -i "s|Timeout 300|Timeout 1000 |g" /etc/apache2/apache2.conf
+
 RUN a2enmod rewrite
 
 RUN usermod -u 1000 www-data
